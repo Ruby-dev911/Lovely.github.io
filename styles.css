@@ -32,6 +32,8 @@ header {
   padding-top: 20px;
   padding-bottom: 30px;
   padding-right: 65px;
+  margin-right: 10px;
+  margin-bottom: 5px;
 }
 
 /* colors styling */
@@ -40,7 +42,7 @@ header {
   flex-direction: row;
   flex-wrap: wrap;
   align-items: flex-start;
-  display: space-around;
+  display: inline-flex;
 }
 
 #color1 {
@@ -50,8 +52,6 @@ header {
   border-top: 1px solid #a7a4ff;
   border-bottom: 1px solid #a7a4ff;
   background-color: rgb(167, 164, 225);
-  margin-right: 10px;
-  margin-bottom: 5px;
 }
 
 #color2 {
@@ -61,8 +61,6 @@ header {
   border-top: 1px solid #aa77aa;
   border-bottom: 1px solid #aa77aa;
   background-color: rgba(170, 119, 170, 1.0);
-  margin-right: 10px;
-  margin-left: 0px;
 }
 
 #color3 {
@@ -72,9 +70,6 @@ header {
   border-top: 1px solid #2a1051;
   border-bottom: 1px solid #2a1051;
   background-color: rgba(42, 16, 81, 1.0);
-  margin-left: 0px;
-  margin-right: 10px;
-  margin-bottom: 5px;
 }
 
 #color4 {
@@ -84,9 +79,6 @@ header {
   border-top: 1px solid #d3a9fc;
   border-bottom: 1px solid #d3a9fc;
   background-color: rgba(211, 169, 252, 1.0);
-  margin-left: 0px;
-  margin-right: 10px;
-  margin-bottom: 5px;
 }
 
 #color5 {
@@ -96,9 +88,6 @@ header {
   border-top: 1px solid #4f0000;
   border-bottom: 1px solid #4f0000;
   background-color: rgba(79, 0, 0, 1.0);
-  margin-right: 10px;
-  margin-bottom: 5px;
-  margin-left: 0px;
 }
 
 #color6 {
@@ -108,9 +97,6 @@ header {
   border-top: 1px solid #003f5c;
   border-bottom: 1px solid #003f5c;
   background-color: rgba(0, 63, 92, 1.0);
-  margin-right: 10px;
-  margin-bottom: 5px;
-  margin-left: 0px;
 }
 
 #color7 {
@@ -120,9 +106,6 @@ header {
   border-top: 1px solid #ff80ff;
   border-bottom: 1px solid #ff80ff;
   background-color: rgba(255, 128, 255, 1.0);
-  margin-left: 0px;
-  margin-right: 5px;
-  margin-bottom: 5px;
 }
 
 #color8 {
@@ -132,9 +115,6 @@ header {
   border-top: 1px solid #c80815;
   border-bottom: 1px solid #c80815;
   background-color: rgba(200, 8, 21, 1.0);
-  margin-left: 3px;
-  margin-right: 10px;
-  margin-bottom: 5px;
 }
 
 #color9 {
@@ -144,9 +124,6 @@ header {
   border-top: 1px solid #a94e74;
   border-bottom: 1px solid #a94e74;
   background-color: rgba(168, 78, 116, 1.0);
-  margin-left: 0px;
-  margin-right: 10px;
-  margin-bottom: 5px;
 }
 
 #color10 {
@@ -156,9 +133,6 @@ header {
   border-top: 1px solid #7151a9;
   border-bottom: 1px solid #7151a9;
   background-color: rgba(113, 81, 169, 1.0);
-  margin-left: 0px;
-  margin-right: 10px;
-  margin-bottom: 5px;
 }
 
 #color11 {
@@ -168,9 +142,6 @@ header {
   border-top: 1px solid #ee00ff;
   border-bottom: 1px solid #ee00ff;
   background-color: rgb(238, 0, 255);
-  margin-left: 0px;
-  margin-right: 10px;
-  margin-bottom: 5px;
 }
 
 #color12 {
@@ -180,9 +151,6 @@ header {
   border-top: 1px solid #ff007f;
   border-bottom: 1px solid #ff007f;
   background-color: rgba(255, 0, 128, 1.0);
-  margin-left: 0px;
-  margin-right: 10px;
-  margin-bottom: 5px;
 }
 
 #color13 {
@@ -192,9 +160,6 @@ header {
   border-top: 1px solid #771155;
   border-bottom: 1px solid #771155;
   background-color: rgba(119, 17, 85, 1.0);
-  margin-left: 0px;
-  margin-right: 10px;
-  margin-bottom: 5px;
 }
 
 /*font styles and font table styling */
