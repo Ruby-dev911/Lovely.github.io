@@ -41,6 +41,7 @@ li {
   align-items: flex-start;
   display: inline-flex;
 }
+
 .color1 {
   display: block;
   border-left: 1px solid #a7a4ff;
@@ -55,6 +56,7 @@ li {
   margin-right: 10px;
   margin-bottom: 5px;
 }
+
 .color2 {
   display: block;
   border-left: 1px solid #aa77aa;
@@ -69,6 +71,7 @@ li {
   margin-right: 10px;
   margin-left: 0px;
 }
+
 .color3 {
   display: block;
   border-left: 1px solid #2a1051;
@@ -84,6 +87,7 @@ li {
   margin-right: 10px;
   margin-bottom: 5px;
 }
+
 .color4 {
   display:block;
   border-left: 1px solid #d3a9fc;
@@ -99,6 +103,7 @@ li {
   margin-right: 10px;
   margin-bottom: 5px;
 }
+
 .color5 {
   display: block;
   border-left: 1px solid #4f0000;
@@ -114,6 +119,7 @@ li {
   margin-bottom: 5px;
   margin-left: 0px;
 }
+
 .color6 {
   display: block;
   border-left: 1px solid #003f5c;
@@ -129,6 +135,7 @@ li {
   margin-bottom: 5px;
   margin-left: 0px;
 }
+
 .color7 {
   display: block;
   border-left: 1px solid #ff80ff;
@@ -144,6 +151,7 @@ li {
   margin-right: 5px;
   margin-bottom: 5px;
 }
+
 .color8 {
   display: block;
   border-left: 1px solid #c80815;
@@ -159,6 +167,7 @@ li {
   margin-right: 10px;
   margin-bottom: 5px;
 }
+
 .color9 {
   display: block;
   border-left: 1px solid #a94e74;
@@ -174,6 +183,7 @@ li {
   margin-right: 10px;
   margin-bottom: 5px;
 }
+
 .color10 {
   display: block;
   border-left: 1px solid #7151a9;
@@ -189,6 +199,7 @@ li {
   margin-right: 10px;
   margin-bottom: 5px;
 }
+
 .color11 {
   display: block;
   border-left: 1px solid #ee00ff;
@@ -204,6 +215,7 @@ li {
   margin-right: 10px;
   margin-bottom: 5px;
 }
+
 .color12 {
   display: block;
   border-left: 1px solid #ff007f;
@@ -219,6 +231,7 @@ li {
   margin-right: 10px;
   margin-bottom: 5px;
 }
+
 .color13 {
   display: block;
   border-left: 1px solid #771155;
