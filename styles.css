@@ -42,7 +42,7 @@ header {
   flex-direction: row;
   flex-wrap: wrap;
   align-items: flex-start;
-  display: inline-flex;
+  display: flex;
 }
 
 #color1 {
