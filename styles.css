@@ -41,22 +41,18 @@ div {
   display: inline-flex;
 }
 
-.color1 {
+#color1 {
   display: block;
   border-left: 1px solid #a7a4ff;
   border-right: 1px solid #a7a4ff;
   border-top: 1px solid #a7a4ff;
   border-bottom: 1px solid #a7a4ff;
-  padding-left: 15px;
-  padding-top: 20px;
-  padding-bottom: 30px;
-  padding-right: 65px;
   background-color: rgb(167, 164, 225);
   margin-right: 10px;
   margin-bottom: 5px;
 }
 
-.color2 {
+#color2 {
   display: block;
   border-left: 1px solid #aa77aa;
   border-right: 1px solid #aa77aa;
@@ -71,7 +67,7 @@ div {
   margin-left: 0px;
 }
 
-.color3 {
+#color3 {
   display: block;
   border-left: 1px solid #2a1051;
   border-right: 1px solid #2a1051;
@@ -87,7 +83,7 @@ div {
   margin-bottom: 5px;
 }
 
-.color4 {
+#color4 {
   display:block;
   border-left: 1px solid #d3a9fc;
   border-right: 1px solid #d3a9fc;
@@ -103,7 +99,7 @@ div {
   margin-bottom: 5px;
 }
 
-.color5 {
+#color5 {
   display: block;
   border-left: 1px solid #4f0000;
   border-right: 1px solid #4f0000;
@@ -119,7 +115,7 @@ div {
   margin-left: 0px;
 }
 
-.color6 {
+#color6 {
   display: block;
   border-left: 1px solid #003f5c;
   border-right: 1px solid #003f5c;
@@ -135,7 +131,7 @@ div {
   margin-left: 0px;
 }
 
-.color7 {
+#color7 {
   display: block;
   border-left: 1px solid #ff80ff;
   border-right: 1px solid #ff80ff;
@@ -151,7 +147,7 @@ div {
   margin-bottom: 5px;
 }
 
-.color8 {
+#color8 {
   display: block;
   border-left: 1px solid #c80815;
   border-right: 1px solid #c80815;
@@ -167,7 +163,7 @@ div {
   margin-bottom: 5px;
 }
 
-.color9 {
+#color9 {
   display: block;
   border-left: 1px solid #a94e74;
   border-right: 1px solid #a94e74;
@@ -183,7 +179,7 @@ div {
   margin-bottom: 5px;
 }
 
-.color10 {
+#color10 {
   display: block;
   border-left: 1px solid #7151a9;
   border-right: 1px solid #7151a9;
@@ -199,7 +195,7 @@ div {
   margin-bottom: 5px;
 }
 
-.color11 {
+#color11 {
   display: block;
   border-left: 1px solid #ee00ff;
   border-right: 1px solid #ee00ff;
@@ -215,7 +211,7 @@ div {
   margin-bottom: 5px;
 }
 
-.color12 {
+#color12 {
   display: block;
   border-left: 1px solid #ff007f;
   border-right: 1px solid #ff007f;
@@ -231,7 +227,7 @@ div {
   margin-bottom: 5px;
 }
 
-.color13 {
+#color13 {
   display: block;
   border-left: 1px solid #771155;
   border-right: 1px solid #771155;
