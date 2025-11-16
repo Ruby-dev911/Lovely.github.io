@@ -43,6 +43,7 @@ header {
   flex-wrap: wrap;
   align-items: flex-start;
   display: flex;
+  flex-grow: 1;
 }
 
 #color1 {
