@@ -27,10 +27,13 @@ header {
   text-align:center;
 }
 
-div {
+div.color {
   color: #ffffff;
   font-family: ""
-}
+  padding-left: 15px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  padding-right: 65px;}
 
 /* colors styling */
 
