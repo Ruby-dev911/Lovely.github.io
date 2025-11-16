@@ -41,9 +41,8 @@ header {
 .colors {
   flex-direction: row;
   flex-wrap: wrap;
-  align-items: justify;
+  align-items: center;
   display: flex;
-  flex-grow: 1;
 }
 
 #color1 {
