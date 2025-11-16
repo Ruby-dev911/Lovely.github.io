@@ -1,0 +1,429 @@
+*sections */
+
+.sections {
+  margin-top:20px;
+  margin-bottom:20px;
+  margin-left:10px;
+  border:2px solid #EEddff;
+  padding:5px;
+}
+
+/*headers and titles*/
+
+.cinz {
+  font-family: "Cinzel", serif;
+  font-size: 20px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: 2px;
+}
+
+header {
+  font-family: "Times New Roman", cursive;
+  font-size: 36px;
+  font-weight: 300;
+  font-style: normal;
+  text-align:center;
+}
+
+li {
+  color: #ffffff;
+  font-family: ""
+}
+
+/* colors styling */
+
+.colors {
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  display: inline-flex;
+}
+.color1 {
+  display: block;
+  border-left: 1px solid #a7a4ff;
+  border-right: 1px solid #a7a4ff;
+  border-top: 1px solid #a7a4ff;
+  border-bottom: 1px solid #a7a4ff;
+  padding-left: 15px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  padding-right: 65px;
+  background-color: rgb(167, 164, 225);
+  margin-right: 10px;
+  margin-bottom: 5px;
+}
+.color2 {
+  display: block;
+  border-left: 1px solid #aa77aa;
+  border-right: 1px solid #aa77aa;
+  border-top: 1px solid #aa77aa;
+  border-bottom: 1px solid #aa77aa;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  padding-right: 65px;
+  background-color: rgba(170, 119, 170, 1.0);
+  margin-right: 10px;
+  margin-left: 0px;
+}
+.color3 {
+  display: block;
+  border-left: 1px solid #2a1051;
+  border-right: 1px solid #2a1051;
+  border-top: 1px solid #2a1051;
+  border-bottom: 1px solid #2a1051;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  padding-right: 50px;
+  background-color: rgba(42, 16, 81, 1.0);
+  margin-left: 0px;
+  margin-right: 10px;
+  margin-bottom: 5px;
+}
+.color4 {
+  display:block;
+  border-left: 1px solid #d3a9fc;
+  border-right: 1px solid #d3a9fc;
+  border-top: 1px solid #d3a9fc;
+  border-bottom: 1px solid #d3a9fc;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-right: 55px;
+  padding-bottom: 30px;
+  background-color: rgba(211, 169, 252, 1.0);
+  margin-left: 0px;
+  margin-right: 10px;
+  margin-bottom: 5px;
+}
+.color5 {
+  display: block;
+  border-left: 1px solid #4f0000;
+  border-right: 1px solid #4f0000;
+  border-top: 1px solid #4f0000;
+  border-bottom: 1px solid #4f0000;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  padding-right: 75px;
+  background-color: rgba(79, 0, 0, 1.0);
+  margin-right: 10px;
+  margin-bottom: 5px;
+  margin-left: 0px;
+}
+.color6 {
+  display: block;
+  border-left: 1px solid #003f5c;
+  border-right: 1px solid #003f5c;
+  border-top: 1px solid #003f5c;
+  border-bottom: 1px solid #003f5c;
+  padding-left: 10px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  padding-right: 40px;
+  background-color: rgba(0, 63, 92, 1.0);
+  margin-right: 10px;
+  margin-bottom: 5px;
+  margin-left: 0px;
+}
+.color7 {
+  display: block;
+  border-left: 1px solid #ff80ff;
+  border-right: 1px solid #ff80ff;
+  border-top: 1px solid #ff80ff;
+  border-bottom: 1px solid #ff80ff;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  padding-right: 70px;
+  background-color: rgba(255, 128, 255, 1.0);
+  margin-left: 0px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+.color8 {
+  display: block;
+  border-left: 1px solid #c80815;
+  border-right: 1px solid #c80815;
+  border-top: 1px solid #c80815;
+  border-bottom: 1px solid #c80815;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  padding-right: 40px;
+  background-color: rgba(200, 8, 21, 1.0);
+  margin-left: 3px;
+  margin-right: 10px;
+  margin-bottom: 5px;
+}
+.color9 {
+  display: block;
+  border-left: 1px solid #a94e74;
+  border-right: 1px solid #a94e74;
+  border-top: 1px solid #a94e74;
+  border-bottom: 1px solid #a94e74;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  padding-right: 80px;
+  background-color: rgba(168, 78, 116, 1.0);
+  margin-left: 0px;
+  margin-right: 10px;
+  margin-bottom: 5px;
+}
+.color10 {
+  display: block;
+  border-left: 1px solid #7151a9;
+  border-right: 1px solid #7151a9;
+  border-top: 1px solid #7151a9;
+  border-bottom: 1px solid #7151a9;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  padding-right: 60px;
+  background-color: rgba(113, 81, 169, 1.0);
+  margin-left: 0px;
+  margin-right: 10px;
+  margin-bottom: 5px;
+}
+.color11 {
+  display: block;
+  border-left: 1px solid #ee00ff;
+  border-right: 1px solid #ee00ff;
+  border-top: 1px solid #ee00ff;
+  border-bottom: 1px solid #ee00ff;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  padding-right: 58px;
+  background-color: rgb(238, 0, 255);
+  margin-left: 0px;
+  margin-right: 10px;
+  margin-bottom: 5px;
+}
+.color12 {
+  display: block;
+  border-left: 1px solid #ff007f;
+  border-right: 1px solid #ff007f;
+  border-top: 1px solid #ff007f;
+  border-bottom: 1px solid #ff007f;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  padding-right: 55px;
+  background-color: rgba(255, 0, 128, 1.0);
+  margin-left: 0px;
+  margin-right: 10px;
+  margin-bottom: 5px;
+}
+.color13 {
+  display: block;
+  border-left: 1px solid #771155;
+  border-right: 1px solid #771155;
+  border-top: 1px solid #771155;
+  border-bottom: 1px solid #771155;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  padding-right: 60px;
+  background-color: rgba(119, 17, 85, 1.0);
+  margin-left: 0px;
+  margin-right: 10px;
+  margin-bottom: 5px;
+}
+
+/*font styles and font table styling */
+
+.astloch-bold{
+  font-family: "Astloch", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 36px;
+}
+
+.textstyles {
+  font-family: "Engagement", cursive;
+  font-weight: 100;
+  font-size: 18px;
+  font-style: normal;
+}
+
+.c {
+  font-family: "Parisienne", serif;
+  font-size: 18px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: 2px;
+  text-decoration: underline;
+}
+
+.b {
+  font-family: "Cinzel", serif;
+  font-size: 18px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: 2px;
+  text-transform: lowercase;
+}
+
+.d {
+  font-family: "Parisienne", serif;
+  font-size: 18px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: 2px;
+  text-transform: lowercase;
+}
+
+.meow-script-regular {
+  font-family: "Meow Script";
+  font-weight: 400;
+  font-style: normal;
+  font-size: 36px;
+}
+
+.e {
+  font-family: "Meow Script", serif;
+  font-size: 36px;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.g {
+  font-family: "Cinzel", serif;
+  font-size: 18px;
+  font-weight: 400;
+  font-style: normal;
+  text-transform: uppercase;
+}
+
+.h {
+  font-family: "Parisienne", serif;
+  font-size: 18px;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.f {
+  font-family: "Meow Script", serif;
+  font-size: 18px;
+  font-weight: 400;
+  font-style: normal;
+}
+.i {
+  font-family: "Astloch", serif;
+  font-size: 25px;
+  font-weight: 300;
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.k {
+  font-family: "Astloch", serif;
+  font-size: 20px;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.j {
+  font-family: "Meow Script", serif;
+  font-size: 37px;
+  font-weight: 600;
+  font-style: normal;
+  text-transform: lowercase;
+}
+
+.Cormorant-Unicase {
+  font-family: "Cormorant Unicase", serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.cormorant-unicase1 {
+  font-family: "Cormorant Unicase", serif;
+  font-weight: 400;
+  font-size: 21px;
+  font-style: normal;
+}
+
+.cormorant-unicase-light {
+  font-family: "Cormorant Unicase", serif;
+  font-weight: 300;
+  font-size: 18px;
+  font-style: normal;
+}
+.cormorant-unicase2 {
+  font-family: "Cormorant Unicase", serif;
+  font-weight: 300;
+  font-size: 18px;
+  font-style: normal;
+  text-decoration: underline;
+}
+.astloch-regular {
+  font-family: "Astloch", system-ui;
+  font-weight: 400;
+  font-size: 31px;
+  font-style: normal;
+}
+.astloch {
+  font-family: "Astloch", system-ui;
+  font-weight: 400;
+  font-size: 21px;
+  font-style: normal;
+}
+.l {
+  font-family: "Meow Script", serif;
+  font-weight: 300;
+  font-size: 20px;
+  font-style: normal;
+}
+.m {
+  font-family: "Astloch", system-ui;
+  font-weight: 300;
+  font-size: 18px;
+  font-style: normal;
+}
+.cormorant-unicase-medium {
+  font-family: "Cormorant Unicase", serif;
+  font-weight: 500;
+  font-style: normal; 
+}
+/*text styles section */
+.h1header {
+  font-family: "Astloch", system-ui;
+  font-weight: 400;
+  font-size: 41px;
+  font-style: bold;
+}
+.subtext {
+  font-family: "Meow Script", serif;
+  font-weight: 400;
+  font-size: 31px;
+  font-style: bold;
+}
+.ast{
+  font-family: "Astloch", system-ui;
+  font-weight: 400;
+  font-size: 18px;
+  font-style: normal;
+}
+
+.meow {
+  font-family: "Meow Script", serif;
+  font-weight: 400;
+  font-size: 18px;
+  font-style: normal;
+}
+
+.para {
+  font-family: "Parisienne", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.parisienne-regular {
+  font-family: "Parisienne", sans-serif;
+  font-weight: 400;
+  font-size: 21px;
+  font-style: normal;
+}
