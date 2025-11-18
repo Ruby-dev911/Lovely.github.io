@@ -72,7 +72,6 @@ div {
 .colors {
   flex-direction: row;
   flex-wrap: wrap;
-  align-content: space-around;
   display: inline-flex;
   item-spacing: 20px;
 }
