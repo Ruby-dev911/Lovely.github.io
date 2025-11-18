@@ -67,7 +67,8 @@ h3 {
   flex-direction: row;
   flex-wrap: wrap;
   align-items: center;
-  display: space-around;
+  display: inline-flex;
+  item-spacing: 20px;
 }
 
 #color1 {
