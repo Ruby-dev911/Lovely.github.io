@@ -34,6 +34,7 @@ header {
   font-weight: 300;
   font-style: normal;
   text-align:center;
+  left-spacing: 4px;
 }
 
 .dice {
