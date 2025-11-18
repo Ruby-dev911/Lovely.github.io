@@ -64,6 +64,11 @@ h3 {
 
 /* colors styling */
 
+div {
+  font-family: "Cormorant Unicase";
+  color: #ffffff;
+}
+
 .colors {
   flex-direction: row;
   flex-wrap: wrap;
