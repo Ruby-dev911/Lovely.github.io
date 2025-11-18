@@ -44,6 +44,10 @@ header {
   margin-right: 10px;
   margin-bottom: 5px;
 }
+h2 {
+  font-family:"Meow Script", serif;
+  font-size: 27px;
+}
 
 /* colors styling */
 
