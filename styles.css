@@ -73,7 +73,8 @@ div {
   flex-direction: row;
   flex-wrap: wrap;
   display: inline-flex;
-  item-spacing: 20px;
+  align-items: center;
+  justify-content: space-around;
 }
 
 #color1 {
