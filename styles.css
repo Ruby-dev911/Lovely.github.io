@@ -37,6 +37,15 @@ header {
   left-spacing: 4px;
 }
 
+header:hover {
+  background-color: #a7a4ff;
+  width: auto;
+  height: 40px;
+  border-radius: 4px;
+  color: white;
+  transition: 3s;
+}  
+
 .dice {
   padding-left: 15px;
   padding-top: 20px;
