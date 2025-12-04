@@ -40,7 +40,7 @@ header {
 header:hover {
   background-color: #a7a4ff;
   border: 1px solid #a7a4ff;
-  width: auto;
+  width: 100px;
   height: 40px;
   border-radius: 4px;
   color: white;
@@ -63,6 +63,10 @@ h2 {
   font-weight:400;
   font-style: normal;
   text-align: center;
+}
+
+h2:hover {
+  
 }
 
 h3 {
