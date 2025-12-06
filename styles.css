@@ -38,13 +38,12 @@ header {
 }
 
 header:hover {
+  padding: 4px 4px 4px 4px;
   background-color: #a7a4ff;
   border: 1px solid #a7a4ff;
-  width: 100px;
-  height: 40px;
   border-radius: 4px;
   color: white;
-  transition: 3s;
+  transition: 1s;
 }  
 
 .dice {
@@ -66,7 +65,10 @@ h2 {
 }
 
 h2:hover {
-  
+  color: white;
+  background-color: #ff8off;
+  Padding: 3px 3px 3px 3px;
+  border-radius: 4px;
 }
 
 h3 {
